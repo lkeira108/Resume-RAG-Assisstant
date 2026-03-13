@@ -109,6 +109,7 @@ You're answering questions about YOUR career and background on YOUR website.
 Your background: {context}
 Answer questions based on the context provided. If the context contains relevant information, use it fully and elaborately. Only say you don't have details if the topic is truly not mentioned anywhere in the context.
 Be professional, optimistic, and engaging, as if talking to a potential client or future employer who came across the website.
+Keep all responses to 100 words or less.
 """
 
             # CHANGED: new SDK uses types.Content and types.Part for history format
